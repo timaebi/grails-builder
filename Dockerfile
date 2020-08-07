@@ -1,4 +1,4 @@
-FROM openjdk:8
+FROM openjdk:7
 
 ARG GRAILS_VERSION="2.4.4"
 
